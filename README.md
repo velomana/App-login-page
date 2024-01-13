@@ -1,6 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
+# Exercise 1
+## Created by velomana,
+this page was create using Next.js showcasing the different part of a webpage 
 
 First, run the development server:
 
